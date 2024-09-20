@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Leo 👋
+
+I'm a Computer Science student 🧑‍🎓 with a keen interest in AI/ML 🤖. I love exploring new technologies, building solutions, and continuously challenging myself in the world of computer science. 🚀
+
+### 🛠️ Technologies & Tools:
+- **Languages:**  Python 🐍, Java ☕, C 💻, SQL 🛢️
+- **Tools:**  GitHub 🌟, Git 🔧
 
 <!--
 **LeoMastro8/LeoMastro8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
