@@ -1,6 +1,6 @@
 ## Hi there, I'm Leo 👋
 
-I'm a Computer Science student 🧑‍🎓 with a keen interest in AI/ML 🤖. I love exploring new technologies, building solutions, and continuously challenging myself in the world of computer science. 🚀
+I'm a Computer Science graduate 🎓 with a keen interest in Artificial Intelligence 🤖 and algorithms. I love exploring new technologies, building solutions, and continuously challenging myself in the world of computer science. 🚀
 
 ### 🛠️ Technologies & Tools:
 - **Languages:**  Python 🐍, Java ☕, C 💻, SQL 🛢️
